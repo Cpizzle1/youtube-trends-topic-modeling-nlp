@@ -6,13 +6,13 @@
 
 
 <p float="left">
-  <img src="images/youtube_users.png" width="400" />
-  <img src="images/youtube_revenue.png" width="400" /> 
+  <img src="images/youtube_users.png" width="450" />
+  <img src="images/youtube_revenue.png" width="450" /> 
   
 </p>
 
 # Dataset
-This dataset is youtube viewship data centered around the videos trending from November 14, 2017-June 14, 2018.
+This dataset is youtube viewship data centered around the videos trending in the United States from November 14, 2017-June 14, 2018 pull from the youtube API and found on kaggle.com.
 
 ![views](images/views_by_catagory.png)
 
