@@ -6,8 +6,8 @@
 
 
 <p float="left">
-  <img src="images/youtube_users.png" width="450" />
-  <img src="images/youtube_revenue.png" width="450" /> 
+  <img src="images/youtube_users.png" width="400" />
+  <img src="images/youtube_revenue.png" width="400" /> 
   
 </p>
 
