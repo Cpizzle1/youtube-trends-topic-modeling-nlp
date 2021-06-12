@@ -7,8 +7,9 @@
 
 <p float="left">
   <img src="images/youtube_users.png" width="450" />
+  youtube user growth
   <img src="images/youtube_revenue.png" width="450" /> 
-  
+  youtube revenue growth
 </p>
 
 # Dataset
